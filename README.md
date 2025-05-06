@@ -21,9 +21,9 @@ Power BI dashboard analyzing bank transactions using DAX and visuals.
 - Most frequent payment types
 
 ## 📸 Preview
-![Dashboard1](Summary)
-![Dashboard2](Overview)
-![Dashboard3](Details)
+![Dashboard1](Summary.jpg)
+![Dashboard2](Overview.jpg)
+![Dashboard3](Details.jpg)
 
 ---
 
