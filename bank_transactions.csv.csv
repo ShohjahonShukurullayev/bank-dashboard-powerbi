@@ -1,0 +1,251 @@
+TransactionID,CustomerName,Category,Amount,TransactionDate,Branch,Currency,TransactionType,AccountStatus
+1,Dr. Felicia Thomas,Depozit,3086.39,2023-12-11,Namangan,EUR,Chiqim,Frozen
+2,Veronica Johnson,Internet banking,8520.76,2024-08-02,Samarqand,USD,Chiqim,Active
+3,Sean Moss,Bankomatdan yechish,5295.65,2025-03-11,Farg‘ona,EUR,Chiqim,Inactive
+4,Ryan Campbell,Mobil to‘lov,9254.52,2023-06-22,Toshkent,EUR,Kirim,Inactive
+5,Robert Leach,Mobil to‘lov,7373.23,2025-03-08,Andijon,USD,Chiqim,Active
+6,Patrick Barron,Hisob ochish,3923.05,2024-04-03,Namangan,USD,Kirim,Inactive
+7,Jessica Moore,Xalqaro o‘tkazma,2472.78,2023-09-26,Namangan,UZS,Chiqim,Inactive
+8,Angela Ramos,Internet banking,5888.89,2023-06-02,Farg‘ona,EUR,Kirim,Active
+9,Kathryn Boone,Mobil to‘lov,5913.31,2023-11-10,Andijon,USD,Chiqim,Inactive
+10,Laura Greene,Talaba krediti,4872.59,2024-01-28,Buxoro,USD,Chiqim,Active
+11,Lisa Burns,Naqd pul,119.27,2023-05-03,Toshkent,UZS,Chiqim,Inactive
+12,Lori Jones,Naqd pul,9796.82,2025-04-10,Buxoro,EUR,Kirim,Active
+13,Kevin Gates,Avtokredit,632.08,2024-09-12,Buxoro,EUR,Chiqim,Active
+14,James Chambers,Hisob ochish,3534.17,2024-06-10,Farg‘ona,UZS,Chiqim,Inactive
+15,Victor Larson,Foiz to‘lovi,7599.9,2024-01-05,Farg‘ona,UZS,Kirim,Active
+16,Frank Montgomery,Kartani yangilash,4564.37,2024-01-28,Toshkent,EUR,Chiqim,Frozen
+17,William Mitchell DVM,Komissiya,9100.24,2024-04-16,Andijon,EUR,Kirim,Active
+18,Brett Guzman,Foiz to‘lovi,9309.91,2024-02-24,Farg‘ona,EUR,Chiqim,Active
+19,Ryan Carson,To‘lov,7733.5,2023-09-02,Andijon,UZS,Kirim,Inactive
+20,Carlos Merritt,Naqd pul,9089.76,2023-06-28,Farg‘ona,USD,Chiqim,Inactive
+21,Mary Ortiz,Depozit,3843.27,2024-04-17,Farg‘ona,EUR,Chiqim,Frozen
+22,Benjamin Pruitt,Foiz to‘lovi,3386.2,2025-01-02,Andijon,EUR,Chiqim,Frozen
+23,Howard Rodgers,Talaba krediti,2800.78,2025-01-17,Buxoro,UZS,Kirim,Active
+24,Brian Miller,Kredit,1845.99,2024-11-27,Buxoro,UZS,Chiqim,Inactive
+25,Jeremy Riley,To‘lov,1660.65,2024-04-29,Namangan,EUR,Chiqim,Frozen
+26,Scott Johnson,To‘lov,8130.02,2024-08-24,Samarqand,USD,Kirim,Active
+27,Karen Payne,SMS xabarnoma,7811.23,2025-02-20,Farg‘ona,EUR,Kirim,Inactive
+28,Collin Vang,Internet banking,391.82,2023-07-17,Andijon,EUR,Chiqim,Inactive
+29,Kelsey Smith,Bank ichida o‘tkazma,5213.09,2024-08-16,Buxoro,UZS,Kirim,Inactive
+30,Stephen May,Komissiya,3873.46,2024-12-24,Buxoro,USD,Kirim,Inactive
+31,Emma Young,Mobil to‘lov,4870.33,2024-11-09,Samarqand,EUR,Kirim,Inactive
+32,Shari Marshall,To‘lov,5706.53,2023-11-01,Andijon,UZS,Chiqim,Inactive
+33,Bobby Alvarado,Hisob ochish,9423.69,2024-02-27,Andijon,EUR,Chiqim,Frozen
+34,Nichole Perez,Komissiya,6152.25,2024-09-15,Namangan,USD,Kirim,Frozen
+35,Veronica Jenkins,Kechiktirilgan to‘lov,8585.34,2024-08-10,Farg‘ona,EUR,Chiqim,Frozen
+36,Christine Chaney,Bank ichida o‘tkazma,5550.54,2023-05-11,Toshkent,EUR,Kirim,Frozen
+37,Betty Richard,Foiz to‘lovi,7206.47,2023-08-02,Toshkent,USD,Chiqim,Active
+38,Sarah Hughes,Avtokredit,8145.24,2023-07-02,Andijon,EUR,Chiqim,Inactive
+39,Jennifer Jones,Foiz to‘lovi,4903.09,2024-11-09,Andijon,EUR,Chiqim,Active
+40,Dana Palmer,Xalqaro o‘tkazma,2706.83,2023-07-07,Andijon,EUR,Kirim,Frozen
+41,Christopher Jones,Depozit,371.5,2023-11-05,Samarqand,USD,Kirim,Active
+42,Linda Banks,Avtokredit,2108.63,2024-03-12,Toshkent,USD,Kirim,Active
+43,Nicole Fuller,Kredit,6916.33,2024-10-10,Namangan,EUR,Chiqim,Frozen
+44,Tracy Walker,Hisob ochish,4678.75,2023-05-14,Andijon,UZS,Kirim,Frozen
+45,Robert Mills,Valyuta ayirboshlash,1344.03,2023-07-20,Andijon,USD,Kirim,Inactive
+46,Erin Mendoza,Xalqaro o‘tkazma,989.42,2024-11-18,Buxoro,EUR,Kirim,Frozen
+47,Taylor Chase,Xalqaro o‘tkazma,4260.87,2023-08-06,Samarqand,UZS,Kirim,Inactive
+48,Mrs. Jennifer Morrison,To‘lov,1582.21,2024-04-24,Farg‘ona,EUR,Chiqim,Frozen
+49,Patricia James,Naqd pul,369.59,2025-03-13,Toshkent,UZS,Chiqim,Active
+50,Aaron Morris,SMS xabarnoma,8832.13,2025-04-15,Samarqand,EUR,Kirim,Active
+51,Patricia Pitts,Ipoteka,7033.17,2024-01-05,Farg‘ona,EUR,Kirim,Frozen
+52,Stephanie Jensen,Bank ichida o‘tkazma,4477.03,2025-02-14,Buxoro,UZS,Kirim,Active
+53,Louis Smith,Bank ichida o‘tkazma,114.37,2024-03-09,Buxoro,UZS,Kirim,Active
+54,Jose Harris,SMS xabarnoma,5878.33,2024-02-29,Andijon,EUR,Chiqim,Inactive
+55,Nathan Williams,Bank ichida o‘tkazma,2980.11,2023-09-02,Andijon,EUR,Chiqim,Active
+56,Wesley Hickman,Kartani yangilash,886.96,2023-10-13,Andijon,UZS,Chiqim,Active
+57,Michelle Hartman,Hisob ochish,7195.72,2023-11-29,Namangan,UZS,Chiqim,Active
+58,Jessica Rodriguez,Ipoteka,8775.96,2024-06-27,Namangan,USD,Kirim,Frozen
+59,Anthony Brooks,Internet banking,8166.69,2024-12-23,Toshkent,USD,Chiqim,Frozen
+60,Christopher Thompson,Depozit,8517.39,2023-08-20,Toshkent,USD,Kirim,Active
+61,Daniel Gilbert,SMS xabarnoma,186.91,2023-10-21,Namangan,USD,Chiqim,Active
+62,Amanda Jones DDS,Talaba krediti,8583.53,2024-06-03,Toshkent,USD,Chiqim,Inactive
+63,Tiffany Brown,Xavfsizlik,5328.88,2024-03-16,Farg‘ona,USD,Chiqim,Frozen
+64,Denise Ortiz MD,Xalqaro o‘tkazma,7087.19,2025-02-13,Farg‘ona,UZS,Chiqim,Inactive
+65,Adrian Cardenas,Valyuta ayirboshlash,1274.36,2023-12-29,Namangan,UZS,Kirim,Inactive
+66,Ashley Black,Ipoteka,1536.35,2024-07-27,Namangan,EUR,Kirim,Frozen
+67,Judith Smith,Xavfsizlik,2458.89,2023-12-05,Andijon,UZS,Chiqim,Inactive
+68,Randy Maldonado,Hisob ochish,8693.62,2025-04-30,Namangan,USD,Chiqim,Active
+69,Cody Meyers,Depozit,4731.04,2023-07-04,Toshkent,EUR,Kirim,Frozen
+70,Robert Spence,Hisob ochish,1279.79,2024-02-27,Namangan,EUR,Chiqim,Frozen
+71,Michael Lester,Talaba krediti,231.9,2024-05-08,Namangan,USD,Chiqim,Frozen
+72,Benjamin Smith,Bankomatdan yechish,1755.87,2024-09-15,Farg‘ona,USD,Chiqim,Active
+73,Austin Diaz,Kartani yangilash,6149.36,2024-08-13,Namangan,EUR,Kirim,Frozen
+74,Douglas Brown,Avtokredit,1994.49,2025-03-28,Buxoro,USD,Kirim,Active
+75,Angela Coleman,Kredit,3062.9,2024-11-11,Farg‘ona,EUR,Kirim,Inactive
+76,Olivia Parker,Talaba krediti,2343.81,2025-03-18,Farg‘ona,UZS,Kirim,Inactive
+77,Scott Lane,Bank ichida o‘tkazma,6244.83,2024-01-25,Buxoro,USD,Chiqim,Active
+78,Patrick Gill,Komissiya,6051.82,2024-10-18,Buxoro,USD,Chiqim,Frozen
+79,Larry Johnson,Depozit,7647.12,2025-03-16,Andijon,UZS,Chiqim,Active
+80,Kim Bullock,Bankomatdan yechish,8444.41,2025-02-08,Buxoro,USD,Kirim,Frozen
+81,Annette Washington,Talaba krediti,6553.92,2024-12-04,Buxoro,EUR,Kirim,Inactive
+82,Justin Mclaughlin,Avtokredit,8459.21,2024-10-07,Andijon,UZS,Chiqim,Active
+83,April Soto DDS,Mobil to‘lov,1290.22,2024-03-18,Samarqand,UZS,Chiqim,Inactive
+84,Miguel Cervantes,Depozit,8278.2,2024-04-04,Namangan,EUR,Chiqim,Frozen
+85,Brandon Castro,Valyuta ayirboshlash,9369.89,2024-01-14,Toshkent,USD,Kirim,Inactive
+86,Patrick Smith,Kartani yangilash,8818.53,2023-09-19,Andijon,UZS,Kirim,Frozen
+87,Emma Austin,Talaba krediti,4571.64,2023-09-28,Samarqand,UZS,Chiqim,Frozen
+88,Mario Mcdaniel,Kechiktirilgan to‘lov,7221.26,2024-06-20,Farg‘ona,USD,Kirim,Active
+89,Elizabeth Garcia,SMS xabarnoma,9779.99,2024-04-27,Buxoro,USD,Kirim,Active
+90,Gregory Lopez,Komissiya,1166.14,2023-06-19,Farg‘ona,USD,Kirim,Active
+91,Margaret Hall,Naqd pul,1870.46,2023-09-18,Andijon,EUR,Chiqim,Frozen
+92,Amy Carpenter,Ipoteka,1750.93,2024-06-17,Toshkent,EUR,Chiqim,Frozen
+93,Kevin Miller,Bankomatdan yechish,4474.25,2024-12-07,Buxoro,UZS,Kirim,Active
+94,David Henderson,Valyuta ayirboshlash,7531.47,2023-12-29,Buxoro,EUR,Kirim,Frozen
+95,Sheena Foster,Bank ichida o‘tkazma,7620.08,2023-06-23,Namangan,USD,Chiqim,Inactive
+96,Tracy Jones,Bank ichida o‘tkazma,3554.95,2023-08-06,Namangan,UZS,Chiqim,Frozen
+97,Mary Goodwin MD,To‘lov,2713.07,2024-06-04,Andijon,EUR,Chiqim,Frozen
+98,Donald Reed,Bankomatdan yechish,9650.23,2023-07-12,Farg‘ona,UZS,Kirim,Active
+99,Richard Juarez,Bank ichida o‘tkazma,1302.34,2024-05-11,Buxoro,EUR,Kirim,Frozen
+100,Brooke Martinez,Hisob ochish,320.76,2024-06-26,Buxoro,UZS,Chiqim,Frozen
+101,Shane Miller,Ipoteka,6419.59,2023-07-16,Buxoro,UZS,Chiqim,Frozen
+102,Lauren Andrews,Hisob ochish,2807.95,2024-01-15,Andijon,EUR,Chiqim,Active
+103,Marvin Smith,Xavfsizlik,8133.77,2024-12-22,Farg‘ona,USD,Chiqim,Active
+104,Morgan Wilkerson,Internet banking,835.99,2024-03-04,Farg‘ona,EUR,Kirim,Active
+105,Linda Coleman,Kechiktirilgan to‘lov,2749.54,2023-11-15,Toshkent,EUR,Kirim,Frozen
+106,Stephen Clark,Talaba krediti,3702.19,2025-01-09,Farg‘ona,UZS,Kirim,Inactive
+107,Rachel Gordon,Hisob ochish,1575.57,2024-08-27,Toshkent,UZS,Kirim,Frozen
+108,Brittany Howard,Naqd pul,4915.28,2024-05-01,Farg‘ona,EUR,Chiqim,Active
+109,Madison Bell,Valyuta ayirboshlash,2369.61,2024-11-10,Andijon,USD,Kirim,Inactive
+110,Bonnie Arnold,Valyuta ayirboshlash,374.85,2023-09-25,Samarqand,EUR,Kirim,Frozen
+111,Dawn Robinson,Foiz to‘lovi,9476.81,2024-03-19,Farg‘ona,USD,Kirim,Active
+112,Rose Bautista,Foiz to‘lovi,3724.17,2025-02-12,Andijon,EUR,Kirim,Active
+113,Lisa Holland,Bankomatdan yechish,577.08,2024-08-30,Farg‘ona,UZS,Kirim,Active
+114,Dana Owen,Hisob ochish,6190.97,2025-01-18,Buxoro,EUR,Kirim,Inactive
+115,Teresa Webb,Xavfsizlik,1560.74,2023-08-02,Toshkent,USD,Chiqim,Active
+116,Anthony Gamble,Bank ichida o‘tkazma,3900.65,2024-12-07,Namangan,EUR,Kirim,Active
+117,Denise Gonzalez,Xavfsizlik,3777.03,2023-08-05,Buxoro,USD,Chiqim,Frozen
+118,Laura Jackson,Mobil to‘lov,8215.91,2024-08-20,Buxoro,USD,Kirim,Inactive
+119,Lisa Hudson,Foiz to‘lovi,7543.66,2024-02-19,Toshkent,EUR,Kirim,Frozen
+120,Phillip Trevino,Komissiya,5083.21,2025-01-20,Andijon,UZS,Kirim,Frozen
+121,Brittany Garcia,Foiz to‘lovi,5022.35,2024-04-15,Samarqand,UZS,Chiqim,Inactive
+122,Jose Vazquez,Internet banking,7697.83,2024-04-18,Namangan,EUR,Kirim,Frozen
+123,Courtney Powell,To‘lov,2581.72,2024-03-30,Toshkent,UZS,Chiqim,Active
+124,Robert Ellison,Ipoteka,5244.93,2024-12-10,Namangan,UZS,Chiqim,Active
+125,Colleen Rose,Kechiktirilgan to‘lov,6673.41,2023-06-09,Farg‘ona,UZS,Chiqim,Active
+126,Kayla Blackburn,SMS xabarnoma,4129.2,2024-06-09,Andijon,USD,Kirim,Inactive
+127,Steven Johnson,Internet banking,3219.17,2024-03-15,Andijon,USD,Chiqim,Active
+128,Ruth Heath,Xalqaro o‘tkazma,7244.22,2025-02-22,Buxoro,UZS,Chiqim,Active
+129,John Johnson,Valyuta ayirboshlash,7757.39,2024-05-25,Namangan,UZS,Chiqim,Inactive
+130,Carol Jimenez,Kredit,3077.59,2024-12-04,Buxoro,EUR,Chiqim,Inactive
+131,Annette Martin,Foiz to‘lovi,4915.35,2024-06-23,Toshkent,UZS,Chiqim,Frozen
+132,Christina Velasquez,Internet banking,6859.84,2024-09-13,Farg‘ona,UZS,Kirim,Active
+133,Tyler Miller,Depozit,3486.5,2025-04-06,Buxoro,UZS,Kirim,Frozen
+134,Caleb Schneider,Foiz to‘lovi,2077.64,2023-09-22,Andijon,UZS,Chiqim,Active
+135,Kathryn Burgess,Hisob ochish,547.02,2025-03-12,Farg‘ona,EUR,Chiqim,Active
+136,John Ramos,SMS xabarnoma,617.23,2024-12-13,Buxoro,UZS,Kirim,Inactive
+137,Karen Jensen,To‘lov,850.21,2024-12-10,Samarqand,USD,Chiqim,Frozen
+138,Kari Spears,Bank ichida o‘tkazma,4482.16,2025-03-29,Farg‘ona,USD,Kirim,Inactive
+139,Jeremy Escobar,Kechiktirilgan to‘lov,6551.85,2025-01-17,Toshkent,UZS,Chiqim,Frozen
+140,Miranda Mcclain,Internet banking,4456.7,2023-12-20,Toshkent,UZS,Chiqim,Frozen
+141,John Sullivan,Bank ichida o‘tkazma,8181.13,2024-10-19,Andijon,UZS,Chiqim,Inactive
+142,Jasmine Smith,Komissiya,6791.72,2023-06-29,Andijon,EUR,Kirim,Active
+143,Shannon Perkins,Bankomatdan yechish,1813.49,2024-06-09,Namangan,EUR,Kirim,Active
+144,Heather Jones,Internet banking,9435.88,2023-09-08,Andijon,EUR,Kirim,Inactive
+145,Cynthia Lynch,Valyuta ayirboshlash,4846.31,2024-09-13,Andijon,UZS,Chiqim,Frozen
+146,Rebekah Roberts,Kechiktirilgan to‘lov,4284.44,2023-07-12,Andijon,USD,Kirim,Frozen
+147,Daniel Vega,Depozit,4992.28,2024-10-25,Buxoro,UZS,Chiqim,Inactive
+148,Jake Harper,Kartani yangilash,6227.22,2023-12-21,Namangan,UZS,Kirim,Inactive
+149,Paul Brown,Talaba krediti,8596.83,2023-05-03,Samarqand,USD,Kirim,Active
+150,Matthew Garcia,Foiz to‘lovi,7387.39,2024-03-18,Buxoro,EUR,Chiqim,Frozen
+151,Kimberly Villanueva,Talaba krediti,6924.06,2023-08-07,Samarqand,USD,Chiqim,Active
+152,Tyler Thomas,Mobil to‘lov,4198.73,2024-04-26,Toshkent,EUR,Kirim,Inactive
+153,Paul Hopkins,Bankomatdan yechish,7588.7,2023-05-03,Buxoro,USD,Kirim,Active
+154,Nicole Mcbride,Kartani yangilash,8192.96,2024-05-19,Buxoro,UZS,Kirim,Active
+155,Jacob Lang,Ipoteka,1676.21,2025-01-29,Andijon,UZS,Chiqim,Active
+156,Mrs. Erica Sullivan,Valyuta ayirboshlash,3488.76,2023-05-05,Buxoro,EUR,Kirim,Frozen
+157,Joshua Johnson,Hisob ochish,6154.51,2024-07-07,Samarqand,EUR,Chiqim,Inactive
+158,Corey Burgess,Kredit,122.45,2025-04-09,Samarqand,USD,Kirim,Inactive
+159,Anthony Johnson,Internet banking,6237.07,2023-10-12,Buxoro,UZS,Chiqim,Inactive
+160,Paul Murray,Foiz to‘lovi,1748.5,2023-11-12,Buxoro,UZS,Chiqim,Inactive
+161,Kevin Newman,SMS xabarnoma,2029.76,2024-03-08,Andijon,UZS,Chiqim,Active
+162,Jennifer Harrison,Avtokredit,6987.47,2024-06-25,Samarqand,USD,Chiqim,Inactive
+163,Levi Chavez,Mobil to‘lov,9715.98,2023-06-04,Samarqand,UZS,Chiqim,Inactive
+164,Karen Wright,Talaba krediti,7907.04,2024-01-29,Buxoro,EUR,Kirim,Active
+165,Charles Bennett,Bank ichida o‘tkazma,8030.29,2025-01-16,Andijon,EUR,Kirim,Active
+166,Dr. Adrian Solis PhD,SMS xabarnoma,5473.02,2024-01-04,Andijon,UZS,Chiqim,Inactive
+167,Mrs. Julie King,Naqd pul,3403.92,2024-07-11,Samarqand,USD,Kirim,Inactive
+168,Michael Johns,Valyuta ayirboshlash,4779.41,2023-10-15,Buxoro,UZS,Chiqim,Inactive
+169,Brittney Harris,Depozit,2927.43,2025-04-04,Andijon,UZS,Kirim,Inactive
+170,Tina Miller,Xalqaro o‘tkazma,373.85,2024-01-06,Farg‘ona,USD,Kirim,Frozen
+171,Joseph Townsend,SMS xabarnoma,2589.77,2024-07-21,Samarqand,EUR,Chiqim,Frozen
+172,Deborah Frazier,Hisob ochish,9214.72,2024-10-06,Namangan,USD,Chiqim,Frozen
+173,David Jordan,Ipoteka,3273.33,2023-10-19,Andijon,UZS,Chiqim,Active
+174,Brooke Hernandez,Xalqaro o‘tkazma,1722.72,2025-03-16,Farg‘ona,USD,Chiqim,Inactive
+175,Patricia Howard,Avtokredit,3178.47,2023-06-07,Farg‘ona,UZS,Kirim,Inactive
+176,Joseph Arias,Komissiya,1688.3,2023-12-03,Farg‘ona,EUR,Kirim,Frozen
+177,Lawrence Morgan,To‘lov,5377.86,2024-05-20,Andijon,USD,Kirim,Frozen
+178,Nicholas Lee,Kartani yangilash,5355.7,2023-12-13,Namangan,EUR,Chiqim,Active
+179,Jessica Gibson,Internet banking,9117.94,2025-03-15,Samarqand,EUR,Chiqim,Frozen
+180,Alexis Ross,Komissiya,4527.38,2024-03-11,Farg‘ona,USD,Kirim,Active
+181,Richard Lucas,Kartani yangilash,8976.4,2024-03-02,Samarqand,EUR,Kirim,Inactive
+182,Daryl Walker,To‘lov,2503.54,2024-09-12,Buxoro,USD,Chiqim,Inactive
+183,Tiffany Foster,Mobil to‘lov,5545.23,2024-08-09,Andijon,EUR,Kirim,Active
+184,Natasha Caldwell,Depozit,3341.64,2024-08-06,Farg‘ona,UZS,Kirim,Active
+185,Teresa Hernandez,Avtokredit,5773.54,2024-04-08,Andijon,EUR,Chiqim,Frozen
+186,Robert Clayton,To‘lov,9684.9,2024-01-23,Andijon,EUR,Chiqim,Frozen
+187,Kelly Campos,Kechiktirilgan to‘lov,7334.77,2025-02-05,Farg‘ona,EUR,Kirim,Frozen
+188,Sarah Durham,Kechiktirilgan to‘lov,509.65,2024-10-20,Namangan,USD,Kirim,Active
+189,Jeffrey Cunningham,Valyuta ayirboshlash,4242.18,2023-08-04,Namangan,USD,Chiqim,Frozen
+190,Ms. Angela Maxwell,Internet banking,868.72,2023-07-05,Samarqand,UZS,Kirim,Frozen
+191,Brandon Jimenez,Kartani yangilash,3874.22,2023-10-20,Andijon,USD,Kirim,Active
+192,Peter Alvarez,Kechiktirilgan to‘lov,5911.11,2024-01-22,Andijon,USD,Kirim,Frozen
+193,Jacob Soto,Internet banking,5953.07,2023-12-02,Samarqand,USD,Chiqim,Inactive
+194,Victoria Carroll,Xavfsizlik,5400.32,2024-02-11,Namangan,UZS,Kirim,Frozen
+195,Stephanie Singleton,To‘lov,960.4,2023-06-28,Toshkent,USD,Chiqim,Inactive
+196,Zachary Williams,Xavfsizlik,8538.38,2023-12-09,Namangan,USD,Chiqim,Inactive
+197,Jeremy Livingston,Ipoteka,31.47,2024-06-16,Buxoro,UZS,Chiqim,Active
+198,Madeline Collins,To‘lov,2019.13,2023-10-06,Namangan,USD,Kirim,Inactive
+199,Rita Ortega,Kechiktirilgan to‘lov,4531.38,2024-01-24,Buxoro,UZS,Chiqim,Active
+200,Stephanie Espinoza,Bank ichida o‘tkazma,2201.35,2024-03-22,Toshkent,USD,Kirim,Inactive
+201,Jennifer Kelly,To‘lov,577.73,2024-08-04,Farg‘ona,UZS,Chiqim,Inactive
+202,Keith Walton,Internet banking,8364.66,2023-12-14,Buxoro,UZS,Kirim,Frozen
+203,Antonio Mejia,Ipoteka,4228.2,2024-08-24,Toshkent,UZS,Kirim,Active
+204,Beverly Brown,Komissiya,2541.67,2024-10-30,Andijon,EUR,Kirim,Inactive
+205,Cynthia Byrd,Depozit,2596.09,2025-01-16,Buxoro,UZS,Chiqim,Frozen
+206,Gina Rivera,Bankomatdan yechish,8892.75,2024-01-06,Buxoro,UZS,Chiqim,Frozen
+207,Mikayla Turner,Hisob ochish,8134.9,2025-03-14,Toshkent,USD,Kirim,Inactive
+208,James Reeves,SMS xabarnoma,854.02,2024-06-30,Namangan,USD,Chiqim,Active
+209,Gregory Moore,Kredit,6127.67,2024-08-17,Toshkent,UZS,Chiqim,Frozen
+210,James Berger,Mobil to‘lov,3589.32,2023-07-05,Toshkent,EUR,Chiqim,Frozen
+211,Jeremy Black,Kredit,2296.91,2023-09-16,Toshkent,UZS,Kirim,Active
+212,Betty Woods,Komissiya,8540.55,2025-04-29,Namangan,UZS,Chiqim,Active
+213,Ashley Brown,Kechiktirilgan to‘lov,772.23,2025-02-23,Andijon,EUR,Chiqim,Inactive
+214,Tim Banks,Bank ichida o‘tkazma,6843.37,2023-06-21,Toshkent,USD,Kirim,Inactive
+215,Lisa Austin,Naqd pul,4206.58,2024-05-02,Farg‘ona,UZS,Chiqim,Inactive
+216,Jessica Robles,Naqd pul,9186.78,2024-11-11,Toshkent,EUR,Chiqim,Frozen
+217,Maria Gill,Valyuta ayirboshlash,443.49,2023-11-10,Namangan,USD,Chiqim,Active
+218,Karen Jackson,Internet banking,3907.75,2024-12-09,Farg‘ona,UZS,Kirim,Active
+219,Patrick Taylor,SMS xabarnoma,5008.82,2025-04-22,Farg‘ona,USD,Kirim,Inactive
+220,Christopher Krueger,Kartani yangilash,8801.49,2023-08-25,Samarqand,USD,Chiqim,Inactive
+221,Mr. Jeffery Miller DDS,Avtokredit,3880.85,2023-06-06,Namangan,EUR,Kirim,Active
+222,Jesus Elliott DDS,Hisob ochish,2787.87,2025-03-12,Buxoro,EUR,Kirim,Frozen
+223,Charles Lewis,SMS xabarnoma,172.71,2023-06-03,Samarqand,EUR,Chiqim,Frozen
+224,Jennifer Clark,Naqd pul,7000.64,2024-12-06,Buxoro,USD,Chiqim,Inactive
+225,Nicole Peters,Mobil to‘lov,4280.86,2024-01-18,Buxoro,EUR,Kirim,Frozen
+226,David Castaneda,Depozit,9566.58,2023-08-31,Samarqand,UZS,Chiqim,Frozen
+227,Kimberly Gibson,To‘lov,9626.85,2024-05-21,Namangan,USD,Kirim,Active
+228,Amanda Blackburn,Xavfsizlik,3709.03,2023-08-13,Toshkent,EUR,Kirim,Inactive
+229,Terri Buckley,Kartani yangilash,2964.99,2025-03-12,Samarqand,EUR,Chiqim,Frozen
+230,Jessica Miller,Depozit,7142.09,2025-02-10,Toshkent,UZS,Chiqim,Active
+231,George Moreno,To‘lov,72.93,2023-05-30,Samarqand,UZS,Kirim,Active
+232,Joseph Leonard,Bank ichida o‘tkazma,464.47,2024-09-18,Farg‘ona,USD,Kirim,Frozen
+233,Tanya Gonzales,Talaba krediti,6084.97,2023-11-01,Andijon,EUR,Kirim,Active
+234,Abigail Meyers,Kartani yangilash,1634.93,2025-01-30,Toshkent,EUR,Kirim,Frozen
+235,Jaime Austin,Komissiya,9848.01,2024-06-03,Buxoro,UZS,Kirim,Active
+236,Jonathan Butler,Hisob ochish,3416.61,2024-04-25,Samarqand,UZS,Chiqim,Active
+237,Gina Patterson,Ipoteka,6472.04,2024-01-27,Toshkent,UZS,Chiqim,Active
+238,Christine Townsend,To‘lov,6155.46,2023-08-19,Farg‘ona,EUR,Chiqim,Inactive
+239,Susan Hall,SMS xabarnoma,3192.96,2024-11-15,Andijon,UZS,Chiqim,Inactive
+240,William Wright,Bankomatdan yechish,295.28,2024-12-20,Farg‘ona,EUR,Kirim,Frozen
+241,Toni Perkins,Foiz to‘lovi,2576.42,2023-05-20,Samarqand,UZS,Chiqim,Inactive
+242,Kathy Adams,Avtokredit,5879.24,2024-11-02,Farg‘ona,USD,Kirim,Active
+243,Chase Miller,Avtokredit,3674.12,2024-10-06,Andijon,UZS,Chiqim,Inactive
+244,Angela Wilcox,Kechiktirilgan to‘lov,6060.08,2025-04-07,Farg‘ona,USD,Chiqim,Inactive
+245,Linda Kim,Foiz to‘lovi,5079.62,2024-04-15,Farg‘ona,UZS,Chiqim,Frozen
+246,Haley Ramsey,Hisob ochish,6347.33,2025-03-16,Namangan,EUR,Kirim,Inactive
+247,Whitney Moreno,Komissiya,6428.92,2025-03-15,Andijon,USD,Kirim,Active
+248,Kathryn Becker,SMS xabarnoma,5104.76,2025-02-05,Farg‘ona,UZS,Chiqim,Active
+249,Anthony Wilson,Komissiya,1640.42,2024-12-29,Andijon,EUR,Chiqim,Inactive
+250,Richard Chan,Talaba krediti,7378.79,2024-12-12,Namangan,UZS,Kirim,Inactive
